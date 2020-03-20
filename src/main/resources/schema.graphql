@@ -1,0 +1,31 @@
+type users{
+    id: Int,
+    first_name: String,
+    last_name:String,
+    email:String,
+    about_me:String,
+    profile_pic:String
+}
+
+
+
+type Mutation {
+    addUser(
+        id: Int,
+        first_name: String,
+        last_name:String,
+        email:String,
+        about_me:String,
+        profile_pic:String):users
+}
+type Query{
+    allUsers: [users]
+    userById(id: Int): [users]
+    userByEmail(email:String):[users]
+}
+
+schema {
+    query: Query
+    mutation: Mutation
+
+}

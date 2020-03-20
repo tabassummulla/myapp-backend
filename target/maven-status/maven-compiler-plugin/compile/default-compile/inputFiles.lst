@@ -1,0 +1,10 @@
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/controller/Controller.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/datafetchers/GraphqlService.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/datafetchers/query/AllUsersFetcher.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/datafetchers/query/UserByEmail.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/datafetchers/query/UserById.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/MyApplication.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/repo/UserRepository.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/datafetchers/mutations/AddUser.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/model/User.java
+/Users/tabassummulla/Desktop/myapp/myapp-backend/src/main/java/app/repo/UserService.java

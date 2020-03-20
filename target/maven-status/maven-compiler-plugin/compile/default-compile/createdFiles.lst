@@ -1,0 +1,10 @@
+app/datafetchers/query/UserByEmail.class
+app/repo/UserService.class
+app/repo/UserRepository.class
+app/controller/Controller.class
+app/datafetchers/mutations/AddUser.class
+app/datafetchers/GraphqlService.class
+app/MyApplication.class
+app/model/User.class
+app/datafetchers/query/AllUsersFetcher.class
+app/datafetchers/query/UserById.class
